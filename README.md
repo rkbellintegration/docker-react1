@@ -1,7 +1,8 @@
-# Repo Maintaniers
+## Repo Maintaniers
  - Jack
  - Doug
  - Richard
+ - Sally
 
 # Getting Started with Create React App
 
